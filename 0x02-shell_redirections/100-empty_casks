@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type -empty -printf%p
+find . -type -empty -printf%p'\n'
